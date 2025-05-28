@@ -35,7 +35,7 @@
     "eslint-plugin-react": "^3.9.0",
     "history": "^1.14.0",
     "karma": "^6.0.0",
-    "karma-chrome-launcher": "^0.2.1",
+    "karma-chrome-launcher": "^3.0.0",
     "karma-mocha": "^0.2.1",
     "karma-mocha-reporter": "^1.1.1",
     "karma-phantomjs-launcher": "^0.2.1",
