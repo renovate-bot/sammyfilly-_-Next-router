@@ -48,14 +48,14 @@
     "react": "^0.14.3",
     "react-addons-test-utils": "^0.14.2",
     "react-dom": "^0.14.2",
-    "react-router": "^1.0.2",
+    "react-router": "^8.0.0",
     "sinon": "^1.17.2",
     "webpack": "^1.12.6"
   },
   "dependencies": {
     "lodash": "^4.0.0",
     "query-string": "^3.0.0",
-    "react-router": "^1.0.0",
+    "react-router": "^8.0.0",
     "recompose": "^0.11.2"
   }
 }
